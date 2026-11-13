@@ -1,2 +1,1 @@
-# SSI-Sort-PC-Releases
-SSI Sort Windows PC
+# SSI Sort Windows PC
